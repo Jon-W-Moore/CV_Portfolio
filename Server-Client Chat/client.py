@@ -1,10 +1,4 @@
-# Jon Moore
-# CS 372
-# Project 4
 
-# Sources:
-# https://www.youtube.com/watch?v=CV7_stUWvBQ&t=1338s
-# https://learningactors.com/creating-command-line-based-chat-room-using-python/
 
 import socket
 import select
